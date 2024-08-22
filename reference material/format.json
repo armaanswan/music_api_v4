@@ -1,0 +1,300 @@
+{
+    "isrc": "DGA072235207",
+    "album_title": "A for Arjan",
+    "disc_number": 1,
+    "duration": 278,
+    "explicit": false,
+    "genre": "Punjabi Romance",
+    "label": "Brown Studios",
+    "language": "pa",
+    "release_date": {
+        "_nanoseconds": 234000000,
+        "_seconds": 1669363200
+    },
+    "title": "Reshmi Rumal",
+    "track_number": 9,
+    "year": 2022,
+    "socials": {
+        "youtube_url": "https://www.youtube.com/watch?v=aWzkOgo_pq4",
+        "youtube_music_url": "https://music.youtube.com/watch?v=aWzkOgo_pq4&si=DvULuraPLpwf_A8K",
+        "spotify_url": "https://open.spotify.com/track/3hfP5vbZeGOKcczj7gg8La?si=e7010cb0513f4a83",
+        "apple_music_url": "https://music.apple.com/ca/album/reshmi-rumal-feat-arsh-heer/1656305187?i=1656305205",
+        "shazam_url": "https://www.shazam.com/song/1656305205/reshmi-rumal-feat-arsh-heer",
+        "soundcloud_url": "https://soundcloud.com/arjandhillon-music/reshmi-rumal-feat-arsh-heer",
+        "amazon_music_url": "https://music.amazon.com/tracks/B0BN83GFHQ"
+    },
+    "sections": [
+        {
+            "type": "verse",
+            "lyrics": [
+                {
+                    "text": "ਕੁੜੀ ਹੱਸਦੀਆਂ ਅੱਖਾਂ ਵਾਲ਼ੀ ਸੀ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਉਹਦੀ ਤੋਰ ਪੈਰਾਂ ਤੋਂ ਕਾਹਲ਼ੀ ਸੀ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਕੁੜੀ ਹੱਸਦੀਆਂ ਅੱਖਾਂ ਵਾਲ਼ੀ ਸੀ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਉਹਦੀ ਤੋਰ ਪੈਰਾਂ ਤੋਂ ਕਾਹਲ਼ੀ ਸੀ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਕਿਤੋਂ ਧੋਖਾ ਖਾ ਲਿਆ ਏ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਦੇਖਿਆ ਨਹੀਂ ਜਾਂਦਾ ਹਾਲ ਉਹਦਾ, ਹਾਲ ਉਹਦਾ",
+                    "background_vocals": false
+                }
+            ]
+        },
+        {
+            "type": "chorus",
+            "lyrics": [
+                {
+                    "text": "ਹੰਝੂਆਂ ਦਾ ਹਿਸਾਬ ਕਰੇ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਹਾਏ ਰੇਸ਼ਮੀ ਰੁਮਾਲ ਉਹਦਾ, ਰੁਮਾਲ ਉਹਦਾ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਹੰਝੂਆਂ ਦਾ ਹਿਸਾਬ ਕਰੇ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਹਾਏ ਰੇਸ਼ਮੀ ਰੁਮਾਲ ਉਹਦਾ, ਰੁਮਾਲ ਉਹਦਾ",
+                    "background_vocals": false
+                }
+            ]
+        },
+        {
+            "type": "verse",
+            "lyrics": [
+                {
+                    "text": "‘ਕੱਲੀ ਬੈਠ ਕੰਟੀਨਾਂ ‘ਤੇ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਪੜ੍ਹਦੀ ਹੁੰਦੀ ਹੀਰ ਸੀ ਉਹ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਹੁਣ ਆਖੇ ਕੈਦੋਂ ਸੱਚਾ ਸੀ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਪਹਿਲਾਂ ਲੋਹੇ ਉੱਤੇ ਲਕੀਰ ਸੀ ਉਹ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਹੁਣ ਆਖੇ ਕੈਦੋਂ ਸੱਚਾ ਸੀ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਪਹਿਲਾਂ ਲੋਹੇ ਉੱਤੇ ਲਕੀਰ ਸੀ ਉਹ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਕਈਆਂ ਦੀ ਤਕਦੀਰ ਸੀ ਉਹ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਕੋਈ ਕਰ ਨਾ ਸਕੀ ਤਦਬੀਰ ਸੀ ਉਹ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਖੌਰੇ ਕਿਹੜਾ ਤੋੜ ਗਿਆ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਹਾਏ ਜ਼ੁਲਫ਼ਾਂ ਦਾ ਜਾਲ਼ ਉਹਦਾ, ਜਾਲ਼ ਉਹਦਾ",
+                    "background_vocals": false
+                }
+            ]
+        },
+        {
+            "type": "chorus",
+            "lyrics": [
+                {
+                    "text": "ਹੰਝੂਆਂ ਦਾ ਹਿਸਾਬ ਕਰੇ",
+                    "background_vocals": true
+                },
+                {
+                    "text": "ਹੰਝੂਆਂ ਦਾ ਹਿਸਾਬ ਕਰੇ",
+                    "background_vocals": true
+                },
+                {
+                    "text": "ਹਾਏ ਰੇਸ਼ਮੀ ਰੁਮਾਲ ਉਹਦਾ, ਰੁਮਾਲ ਉਹਦਾ",
+                    "background_vocals": true
+                },
+                {
+                    "text": "ਦਿਲ ਭਰ-ਭਰ ਆਉਂਦਾ ਏ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਦੇਖਿਆ ਨਹੀਂ ਜਾਂਦਾ ਹਾਲ ਉਹਦਾ, ਹਾਲ ਉਹਦਾ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਹੰਝੂਆਂ ਦਾ ਹਿਸਾਬ ਕਰੇ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਹੰਝੂਆਂ ਦਾ ਹਿਸਾਬ ਕਰੇ",
+                    "background_vocals": true
+                }
+            ]
+        },
+        {
+            "type": "verse",
+            "lyrics": [
+                {
+                    "text": "ਕੋਲੋਂ ਲੰਘਦੀ ਨੀਵੀਂ ਚੱਕਦੀ ਨਹੀਂ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਜਦ ਵੀ ਕਾਲਜ ਆਉਂਦੀ ਆ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਸਾਰੇ ਦੇਖਣ ਅੱਜ-ਕੱਲ੍ਹ ਉਹ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਸੂਟ ਵੀ ਫਿੱਕੇ ਪਾਉਂਦੀ ਆ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਸਾਰੇ ਦੇਖਣ ਅੱਜ-ਕੱਲ੍ਹ ਉਹ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਸੂਟ ਵੀ ਫਿੱਕੇ ਪਾਉਂਦੀ ਆ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਨਾ ਹੱਥ ਵਿੱਚ ਗੁੱਤ ਘੁਮਾਉਂਦੀ ਆ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਨਾ ਹੋਰਾਂ ਨੂੰ ਤੜਫਾਉਂਦੀ ਆ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਜਿਹੜਾ ਦਿਸਣੋ ਰਹਿ ਗਿਆ ਏ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਸੀ ਨਖ਼ਰਾ ਕਮਾਲ ਉਹਦਾ, ਕਮਾਲ ਉਹਦਾ",
+                    "background_vocals": false
+                }
+            ]
+        },
+        {
+            "type": "chorus",
+            "lyrics": [
+                {
+                    "text": "ਹੰਝੂਆਂ ਦਾ ਹਿਸਾਬ ਕਰੇ",
+                    "background_vocals": true
+                },
+                {
+                    "text": "ਹੰਝੂਆਂ ਦਾ ਹਿਸਾਬ ਕਰੇ",
+                    "background_vocals": true
+                },
+                {
+                    "text": "ਹਾਏ ਰੇਸ਼ਮੀ ਰੁਮਾਲ ਉਹਦਾ, ਰੁਮਾਲ ਉਹਦਾ",
+                    "background_vocals": true
+                },
+                {
+                    "text": "ਦਿਲ ਭਰ-ਭਰ ਆਉਂਦਾ ਏ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਦੇਖਿਆ ਨਹੀਂ ਜਾਂਦਾ ਹਾਲ ਉਹਦਾ, ਹਾਲ ਉਹਦਾ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਹੰਝੂਆਂ ਦਾ ਹਿਸਾਬ ਕਰੇ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਹਾਏ ਰੇਸ਼ਮੀ ਰੁਮਾਲ ਉਹਦਾ, ਰੁਮਾਲ ਉਹਦਾ",
+                    "background_vocals": false
+                }
+            ]
+        },
+        {
+            "type": "verse",
+            "lyrics": [
+                {
+                    "text": "ਚੰਗਾ-ਭਲਾ ਮਟਕਾਉਂਦੀ ਸੀ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਕਿਉਂ ਰਾਹ ਪਾਇਆ ਖੁਰਨੇ ਨੂੰ?",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਅਰਜਣ ਦੀ ਉਮਰ ਵੀ ਲੱਗ ਜਾਵੇ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਰੱਬ ਕਰਕੇ ਉਹਦੇ ਸੁਰਮੇ ਨੂੰ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਅਰਜਣ ਦੀ ਉਮਰ ਵੀ ਲੱਗ ਜਾਵੇ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਰੱਬ ਕਰਕੇ ਉਹਦੇ ਸੁਰਮੇ ਨੂੰ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਹਜੇ ਕੀ ਉਮਰ ਹੈ ਝੁਰਨੇ ਨੂੰ?",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਖ਼ੁਸ਼ੀਆਂ ਖੜ੍ਹੀਆਂ ਨੇ ਮੁੜਨੇ ਨੂੰ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਸੁੱਖੀ-ਸਾਂਦੀ ਟੱਪ ਜਾਵੇ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਆਹ 19ਵਾਂ ਜਿਹਾ ਸਾਲ ਉਹਦਾ, ਸਾਲ ਉਹਦਾ",
+                    "background_vocals": false
+                }
+            ]
+        },
+        {
+            "type": "chorus",
+            "lyrics": [
+                {
+                    "text": "ਹੰਝੂਆਂ ਦਾ ਹਿਸਾਬ ਕਰੇ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਹਾਏ ਰੇਸ਼ਮੀ ਰੁਮਾਲ ਉਹਦਾ, ਰੁਮਾਲ ਉਹਦਾ",
+                    "background_vocals": true
+                },
+                {
+                    "text": "ਹੰਝੂਆਂ ਦਾ ਹਿਸਾਬ ਕਰੇ",
+                    "background_vocals": false
+                },
+                {
+                    "text": "ਹਾਏ ਰੇਸ਼ਮੀ ਰੁਮਾਲ ਉਹਦਾ, ਰੁਮਾਲ ਉਹਦਾ",
+                    "background_vocals": true
+                }
+            ]
+        }
+    ]
+}

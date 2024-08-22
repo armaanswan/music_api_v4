@@ -1,0 +1,109 @@
+body {
+    overflow: hidden;
+}
+
+.form {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    height: 100vh;
+}
+
+.form .form-section-heading {
+    font-size: 2rem;
+    font-family: monospace;
+    margin: 0 0 1rem 0;
+    padding: 1rem 0;
+}
+
+.form .middle {
+    grid-column: 1 / 13;
+    display: flex;
+    justify-content: center;
+}
+
+.form .metadata {
+    grid-column: 1 / 6;
+    display: flex;
+    flex-direction: column;
+    background-color: #000000;
+    color: #ffffff;
+    padding: 0 1rem;
+    height: 100vh;
+    overflow: scroll;
+}
+
+.form .lyrics {
+    padding: 0 1rem;
+    grid-column: 6 / 13;
+    height: 100vh;
+}
+
+.form .metadata .input {
+    font-size: 2rem;
+    font-family: monospace;
+    padding: 2px 0;
+    border: 0;
+    width: 100%;
+    margin: 1.5rem 0;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.form .metadata .input:focus {
+    outline: 0;
+}
+
+.form .metadata .input::placeholder {
+    color: #ffffff;
+}
+
+.form .lyrics .textarea {
+    font-size: 3rem;
+    border: 0;
+    font-weight: 900;
+    width: 100%;
+    /* field-sizing: content; */
+    height: 100vh;
+    padding: 1rem 0;
+}
+
+.form .lyrics .textarea:focus {
+    outline: none;
+}
+
+.form .lyrics .textarea::placeholder {
+    color: #9f9f9f;
+}
+
+.form .checkbox-container {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 1rem;
+}
+
+.form .checkbox {
+    cursor: pointer;
+    height: 2rem;
+    width: 2rem;
+}
+
+.form .checkbox-label {
+    font-family: monospace;
+    font-size: 2rem;
+}
+
+
+.form .upload-button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 1rem 1rem 0 0;
+    border: 0;
+    padding: 1rem;
+    color: white;
+    background-color: black;
+    border-radius: 0;
+    font-family: monospace;
+    font-weight: 500;
+    cursor: pointer;
+}

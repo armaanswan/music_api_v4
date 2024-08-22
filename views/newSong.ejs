@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/global.css">
+    <link rel="stylesheet" href="/css/newSong.css">
+    <title>Music API (V4) | Add New Song</title>
+</head>
+
+<body>
+    <div class="form-container">
+        <form class="form">
+            <div class="metadata">
+                <input type="text" name="title" id="title" placeholder="Title" class="input" required>
+                <input type="text" name="album_title" id="album_title" placeholder="Album Title" class="input">
+
+                <input type="datetime" name="release_date" id="release_date" placeholder="Release Date" class="input">
+                <input type="number" name="year" id="year" placeholder="Year" class="input" min="2000">
+                <input type="number" name="track_number" id="track_number" placeholder="Track Number" class="input"
+                    min="1">
+                <input type="number" name="disc_number" id="disc_number" placeholder="Disc Number" class="input"
+                    min="1">
+
+                <input type="text" name="isrc" id="isrc" placeholder="ISRC" class="input">
+                <input type="text" name="label" id="label" placeholder="Label" class="input">
+
+                <input type="number" name="duration" id="duration" placeholder="Duration" class="input" min="1">
+                <input type="text" name="genre" id="genre" placeholder="Genre" class="input">
+                <input type="text" name="language_code" id="language_code" placeholder="Language Code" class="input">
+
+                <input type="text" name="youtube_url" id="youtube_url" placeholder="YouTube URL" class="input">
+                <input type="text" name="youtube_music_url" id="youtube_music_url" placeholder="YouTube Music URL"
+                    class="input">
+                <input type="text" name="spotify_url" id="spotify_url" placeholder="Spotify URL" class="input">
+                <input type="text" name="apple_music_url" id="apple_music_url" placeholder="Apple Music URL"
+                    class="input">
+                <input type="text" name="shazam_url" id="shazam_url" placeholder="Shazam URL" class="input">
+                <input type="text" name="soundcloud_url" id="soundcloud_url" placeholder="Soundcloud URL" class="input">
+                <input type="text" name="amazon_music_url" id="amazon_music_url" placeholder="Amazon Music URL"
+                    class="input">
+
+                <div class="checkbox-container">
+                    <input type="checkbox" name="single" id="single" value="Single" class="checkbox">
+                    <label for="single" class="checkbox-label">Single</label>
+                </div>
+                <div class="checkbox-container">
+                    <input type="checkbox" name="explicit" id="explicit" value="Explicit" class="checkbox">
+                    <label for="explicit" class="checkbox-label">Explicit</label>
+                </div>
+            </div>
+            <div class="lyrics">
+                <textarea name="lyrics" id="lyrics" placeholder="..." class="textarea"></textarea>
+            </div>
+            <button type="submit" class="upload-button">Upload</button>
+        </form>
+    </div>
+    <script src="/js/newSong.js"></script>
+</body>
+
+</html>
